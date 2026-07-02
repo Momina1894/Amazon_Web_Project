@@ -14,4 +14,4 @@ Store the Data: Append the extracted data to a CSV file, creating a historical l
 
 This approach provides a powerful method to track how the book’s market presence evolves over time. It can be particularly useful for monitoring pricing trends, understanding customer sentiment through reviews, and keeping a record of any changes in product availability or description. Additionally, this project can be expanded or adapted to scrape similar data from other products or websites, providing a scalable solution for automated data collection.
 
-Here’s the link to the specific page being scraped: [How I Became Stupid on Amazon.](url)
+Here’s the link to the specific page being scraped: https://www.amazon.com/How-Became-Stupid-Martin-Page/dp/0142004952 
